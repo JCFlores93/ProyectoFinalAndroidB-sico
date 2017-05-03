@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PharmaMedic</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">INICIAR SESIÓN</string>
+    <string name="action_register">CREAR CUENTA DE PHARMAMEDIC</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">El correo electrónico es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_registro1">Registro</string>
+    <string name="title_activity_my_menu">Productos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="title_activity_registro_f">Registro</string>
+    <string name="title_activity_productos">Productos</string>
+    <string name="title_activity_productos2">Productos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="opciones">Opciones</string>
+    <string name="mover">Mover</string>
+    <string name="animar">Animar</string>
+    <string name="pos">Pos</string>
+    <string name="marcador">Ubícanos</string>
+    <string name="latitud">Latitud:</string>
+    <string name="longitud">Longitud:</string>
+    <string name="parar_actualizaciones">Parar Actualizaciones</string>
+    <string name="iniciar_actualizaciones">Iniciar Actualizaciones</string>
+    <string name="regresar">Regresar</string>
+</resources>
